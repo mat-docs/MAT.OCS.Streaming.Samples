@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MA.Atlas.AdvancedStreams.DemoReader", "MA.Atlas.AdvancedStreams.DemoReader\MA.Atlas.AdvancedStreams.DemoReader.csproj", "{F3F06B58-FFF4-4095-B51E-E8D259D80589}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MA.Atlas.AdvancedStreams.DemoWriter", "MA.Atlas.AdvancedStreams.DemoWriter\MA.Atlas.AdvancedStreams.DemoWriter.csproj", "{ED9BAB1C-C926-4180-87C0-6DEB7BBB1581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F06B58-FFF4-4095-B51E-E8D259D80589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F06B58-FFF4-4095-B51E-E8D259D80589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F06B58-FFF4-4095-B51E-E8D259D80589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F06B58-FFF4-4095-B51E-E8D259D80589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED9BAB1C-C926-4180-87C0-6DEB7BBB1581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9BAB1C-C926-4180-87C0-6DEB7BBB1581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9BAB1C-C926-4180-87C0-6DEB7BBB1581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9BAB1C-C926-4180-87C0-6DEB7BBB1581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B80E206-7035-40DF-A48C-19885B5C69D3}
+	EndGlobalSection
+EndGlobal
